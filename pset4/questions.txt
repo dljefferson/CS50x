@@ -1,0 +1,26 @@
+0.  BMP; over 4 billion, GIF 256, JPEG 16.7 Million, PNG 16.7 Million
+1.  GIF
+2.  lossy file compression refers to an file that has been reduced in size and lossless comperession refers to a 
+file that has not been reduced in size(all original information still exist within file)
+3.  JPEG
+4.  First, the system modifies the filename’s first
+character in the file’s directory entry to signal that the file
+has been deleted and that the directory entry can be recycled.
+Second, the system moves all of the file’s FAT clusters
+to the hard drive’s list of free clusters
+5.  Physically destroying the drive, rendering it unusable, degaussing the drive to randomize the magnetic domains—most
+likely rendering the drive unusable in the process, or overwriting the drive's data.
+6.  A library that defines aliases for C/C++ primitive integer data types.
+7.  To clearly specify the exact values of the size of various data types
+8.  BYTE = one byte, DWORD = 4 Bytes, LONG = 4 bytes, WORD = 2 bytes
+9.  BM in ASCII
+10. bfsize is the size of a BMP file in bytes and bisize is the number of bytes required by the 
+BITMAPINFOHEADER structure.
+11. The bitmap is a top-down DIB and its origin is the upper-left corner.
+12. biPlanes
+13. No information in the output file
+14. One unit of memory of size BITMAPFILEHEADER
+15. 1
+16. initializes file stream to a given offset
+17. Used with the fseek function which specifies that the offset provided is relative to the current file position
+18.Rick Astley
