@@ -1,0 +1,19 @@
+0.  The longest word in the english dictionary and refers to a lung disease called
+    silicosis
+1.  A function that returns resource usage measures
+2.  16
+3.  Because the calculate function uses data types of rusage as argruments.
+ The resource usages are returned in the structure pointed to by usage.
+4.  The for loop gets a charactor from the text file a letter at a time and checks
+    to see if it is a valid charactor. If so, it place the character into the 
+    word array. If the word is to long it ignores it by resetting the index counter.
+    It also does this if it encounters a number.
+    
+5.  fgetc reads every charactor, fscanf with %s identifier does not. This might allow us to 
+read a string longer than is expected.
+6.  To save memory. These variables get store in the stack and are "erased" each 
+    time the program is ran.
+7.  hashtable which contains the index location of each word stored in it
+8.  load function time was on the order seconds
+9.  change hash function implementation
+10. Maybe in the hash function implementation.
